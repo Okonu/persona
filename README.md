@@ -1,3 +1,3 @@
 # persona
 
-This is a repsotory on a personal HutTech Website Clone. 
+This is a repsitory on a personal HutTech Website Clone. 
